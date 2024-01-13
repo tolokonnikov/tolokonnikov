@@ -1,4 +1,4 @@
-### Hi there, I'm Albert, the most powerful c# programmer ever! 👋
+### Hi there, I'm Albert, the most powerful C# programmer ever! 👋
 
 ### Reach me out!
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tolokonnikov.albert@gmail.com)
